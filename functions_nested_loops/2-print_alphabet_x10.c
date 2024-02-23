@@ -2,7 +2,7 @@
 #include "stdio.h"
 
 /**
- * print_alphabet - Check the code
+ * print_alphabet_x10 - Check the code
  *
  * Return: Always 0 (Success)
  */
