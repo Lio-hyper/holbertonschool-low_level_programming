@@ -2,7 +2,7 @@
 #include "stdio.h"
 
 /**
- * _mul - Multiplies two integers.
+ * mul - Multiplies two integers.
  * @a: The first integer to be multiplied.
  * @b: The second integer to be multiplied.
  *
