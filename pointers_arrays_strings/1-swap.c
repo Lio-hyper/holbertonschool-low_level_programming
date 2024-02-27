@@ -2,8 +2,8 @@
 
 /**
  * swap_int - check the code
- *
- * Return: Always 0.
+ * @a: The first
+ * @b: The second
  */
 void swap_int(int *a, int *b)
 {
